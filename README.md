@@ -1,4 +1,4 @@
-a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ahmed Shalaby</h1>
@@ -33,8 +33,7 @@ a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"
   <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/>
-</br>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/></br>
 </br>
   <img src="https://img.icons8.com/color/50/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
