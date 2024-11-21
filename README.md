@@ -11,8 +11,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 - 🌱 I’m currently learning **Java and Spring Boot**
 
 
