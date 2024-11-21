@@ -34,7 +34,7 @@ a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"
   <img src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/>
-
+</br>
   <img src="https://img.icons8.com/color/50/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
   <img src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySql"/>
