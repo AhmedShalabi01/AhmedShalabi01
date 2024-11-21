@@ -37,7 +37,7 @@
 </br>
   <img src="https://img.icons8.com/color/50/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
-  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySql"/>
+<img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySql"/>
   <img src="https://img.icons8.com/color/50/mongo-db.png" alt="mongo-db"/>
   
 </p>
