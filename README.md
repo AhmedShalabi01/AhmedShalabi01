@@ -34,6 +34,7 @@
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/></br>
 </br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img src="https://img.icons8.com/color/50/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySql"/>
