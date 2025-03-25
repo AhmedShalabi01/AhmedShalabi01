@@ -37,6 +37,7 @@
   <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img src="https://img.icons8.com/color/50/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/vue-js.png" alt="vue-js"/> 
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySql"/>
   <img src="https://img.icons8.com/color/50/mongo-db.png" alt="mongo-db"/>
 </p>
