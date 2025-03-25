@@ -31,7 +31,10 @@
   <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="C++"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/></br>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"     alt="TypeScript"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
+</br>
 </br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
   <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
